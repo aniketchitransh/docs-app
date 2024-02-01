@@ -2,3 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
+::selection {
+    color: #38FDE3;
+}
